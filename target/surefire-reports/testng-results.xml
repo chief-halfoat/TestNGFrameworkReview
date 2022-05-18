@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-18T12:23:13 EDT" name="All Test Suite" finished-at="2022-05-18T12:23:27 EDT" duration-ms="14368">
+    <groups>
+    </groups>
+    <test started-at="2022-05-18T12:23:13 EDT" name="C:/Users/johna/IdeaProjects/TestNGFramework/src/test/java/Test/AddEmployeeTest.java" finished-at="2022-05-18T12:23:27 EDT" duration-ms="14368">
+      <class name="Test.AddEmployeeTest">
+        <test-method is-config="true" signature="openBrowserAndLauchApplication()[pri:0, instance:Test.AddEmployeeTest@d706f19]" started-at="2022-05-18T12:23:13 EDT" name="openBrowserAndLauchApplication" finished-at="2022-05-18T12:23:16 EDT" duration-ms="3559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndLauchApplication -->
+        <test-method signature="addEmployee()[pri:0, instance:Test.AddEmployeeTest@d706f19]" started-at="2022-05-18T12:23:16 EDT" name="addEmployee" finished-at="2022-05-18T12:23:27 EDT" duration-ms="10688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.AddEmployeeTest@d706f19]" started-at="2022-05-18T12:23:27 EDT" name="tearDown" finished-at="2022-05-18T12:23:27 EDT" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.AddEmployeeTest -->
+    </test> <!-- C:/Users/johna/IdeaProjects/TestNGFramework/src/test/java/Test/AddEmployeeTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
